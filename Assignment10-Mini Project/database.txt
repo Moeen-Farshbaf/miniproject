@@ -1,0 +1,10 @@
+The Shawshank Redemption,9.2,https://www.youtube.com/watch?v=6hB3S9bIaco,Steven King,film,180
+The Godfather,9.1,https://www.youtube.com/watch?v=sY1S34973zA,Francis Coppola,film,180
+Pulp Fiction,8.8,https://www.youtube.com/watch?v=s7EdQ4FqbhY,Quentin Tarantino,film,120
+All or Nothing: Arsenal,8.0,https://www.youtube.com/watch?v=QBbXGUKkJu8,John Douglas,documentary,real
+Count Me In,9.0,https://vimeo.com/110108004,Ines Sommer,documentary,real
+Ghost Adventures,8.5,https://www.youtube.com/watch?v=G4IjU3i90iU,Zak Bagans,documentary,fake
+Breaking Bad,9.7,https://www.youtube.com/watch?v=HhesaQXLuRY,Vince Gilligan,series,62ep
+The Wire,9.2,https://www.youtube.com/watch?v=9qK-VGjMr8g,David Simon,series,60ep
+Rick and Morty,9.2,https://www.youtube.com/watch?v=K8DaX0FFthc,Justin Roiland,series,51ep
+The Sopranos,9.2,https://www.hbo.com/the-sopranos,David Chase,series,86ep
